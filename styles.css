@@ -31,9 +31,9 @@ header {
     font-size: 18px;
 }
 
-.cookie {
+button {
     display: flex;
-    background-color: #3882f6;
+    background-color: rgba(165, 50, 42, 0.552);
     color: white;
     margin-top: 10px;
     border-radius: 10px;
@@ -64,6 +64,28 @@ header {
     display: inline-block;
 }
 
+.content {
+    height: 500px;
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.sub-title {
+    align-self: center;
+    
+    
+    
+}
+
+.images {
+    display: flex;
+    
+}
 
 
 
